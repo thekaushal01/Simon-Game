@@ -1,4 +1,3 @@
-//Simon Says Game
 let gameSeq = [];
 let userSeq = [];
 
